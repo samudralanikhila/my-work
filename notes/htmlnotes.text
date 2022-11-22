@@ -5,3 +5,6 @@ in the html there are 6 types of heading tags and they are from h1 to h6
        <h4></h4>
        <h5></h5>
        <h6></h6>
+a -> hypertext anchor (link tag) it has two target values
+    <a href="link adders" target="_self">any name</a> -->link open in same tab
+    <a href="link adders" target="_blank">any name</a> -->link open in another tab__
